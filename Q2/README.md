@@ -1,6 +1,7 @@
-# zku-c3-week1-q2
+# ZKU Cohort 4 Week 1 Assignment
 
 Install the required node modules by running:
+
 ```shell
 npm install
 ```
